@@ -8,4 +8,4 @@ Compare loss and accuracy of an algorithm over epochs on different computing pla
 
 This repo has been developed as an example of using containerisation for benchmarking in the [TuringBench project](https://alan-turing-institute.github.io/data-science-benchmarking/) at [The Alan Turing Institute](https://www.turing.ac.uk/)
 
-The [notebook in this repo](https://github.com/edwardchalstrey1/scikit-learn-classifier/blob/master/sklearn_classifier_benchmarks.ipynb) provides an example of the TuringBench benchmarking workflow.
+The [notebook in this repo](https://github.com/edwardchalstrey1/neural-network-julia-gpu/blob/master/mlp_classification_julia_gpu_benchmarks.ipynb) provides an example of the TuringBench benchmarking workflow.
